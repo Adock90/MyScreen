@@ -1,0 +1,7 @@
+The File Hash of "opencv_world4110d.dll" Should be:
+F313B40500FAA1FC0D4EB2C119761271656D9BE773C0AF3C042224FC85CD1553
+
+For Win32Only 
+
+Command used and user to check file hash in powershell.exe
+Get-FileHash -Alg SHA256 .\opencv_world4110d.dll
